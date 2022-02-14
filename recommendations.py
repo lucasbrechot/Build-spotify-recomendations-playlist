@@ -3,8 +3,8 @@ from spotipy.oauth2 import SpotifyOAuth
 from spotipy import SpotifyOAuth
 import pandas as pd
 
-client_id = '85a1d153c7ff46889a6acb116e1e2d4e'
-client_secret = '2a72bf9b9fa64bbfa9a2c16820af8920'
+client_id = 'XXXXXXXXXXX'
+client_secret = 'XXXXXXXXXXX'
 redirect_uri = 'http://localhost/'
 scope = 'user-top-read user-library-read playlist-modify-private playlist-modify-public'
 
